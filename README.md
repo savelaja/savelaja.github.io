@@ -1,1 +1,1 @@
-# savelaja.github.io
+# MI 472 Website Project
